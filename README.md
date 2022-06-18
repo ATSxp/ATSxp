@@ -5,6 +5,8 @@
 - 😄 Pronouns: VOID
 - ⚡ Fun fact: I love old games and old hardware
 
+#
+
 <div align="left">
   <a href="https://github.com/ATSxp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ATSxp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
