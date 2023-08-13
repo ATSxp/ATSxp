@@ -1,8 +1,7 @@
 ### Welcome to my void
 
-- 🌱 I’m currently learning C language
+- 🌱 Currently developing games for the Game Boy Advance
 - 💬 Ask me about game development in LUA
-- 😄 Pronouns: VOID
 - ⚡ Fun fact: I love old games and old hardware
 
 #
